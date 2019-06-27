@@ -1,2 +1,2 @@
-# tictactoe
+# TIC-TAC-TOE
 In this programme a very popular game tictactoe is created .It is a 2 player game in ehich one has to choose either of 'O' or 'X'. Game starts with player 1 where he has to enter position where he want to place his 'O' then 2nd player turn is where he has to place 'X' .game comes to an end when either row,column or diagonal is with only 'O' or 'X',if no row,column or diagonal matches above condition then it is a draw
